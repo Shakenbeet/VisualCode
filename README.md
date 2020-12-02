@@ -11,4 +11,4 @@ Listen to User input
 Declare Variables
 
 ## Can I Run It?
-If you have Windows (x64 or x32), yes! I have no idea how to make crossplatform WPF's. That's because I'm an idiot.
+If you have Windows (x64 or x32), yes!
